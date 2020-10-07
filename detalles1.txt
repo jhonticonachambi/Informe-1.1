@@ -1,0 +1,76 @@
+ciclo de vida desarrollo
+1.Planificacion
+-ambito del proyecto
+-estudio de viabilidad
+-analisis de riesgos
+-estimacion
+-planificaion temporal
+-asignacion de cursos
+2.analisis
+-requisitos de informacion
+-
+
+MODELO AGIL NO PARTE DE 0
+
+
+# BASE DE DATOS 
+
+CURSO de DISEÑO de BASE DE DATOS #2 📚 BASE DE DATOS
+https://www.youtube.com/watch?v=eirNt2d9z6E&list=PLg9145ptuAig5eqBYvOuMdpTP2ORUNXbf&index=3
+
+Resumen
+
+-QUE ES
+-ESQUEMAS DE UNA BD (FISICO - LOGICO)
+-VENTAJAS BD:
+	ELIMINAR REDUNDANCIA - SEGURIDAD
+
+Fundamentos en Bases de datos ¿Qué son?
+https://www.youtube.com/watch?v=GenX0Bvu8WY
+
+
+Resumen
+-Que son las bases de datos
+-problemas potenciales
+	tamañp
+	facilidad de actualizacion
+	precision
+	seguridad
+	importantcia
+
+Sistemas de gestión de bases de datos
+https://www.youtube.com/watch?v=4BjnytBHqwI
+
+Resumen
+
+¿Qué son las BASES DE DATOS y cómo funcionan? (BD relacionales y no relacionales) == Excelente video
+https://www.youtube.com/watch?v=knVwokXITGI
+
+Resumen
+-que es base de datos
+-SISTEMATICAMENTE
+-sistema gestor de base de datos
+-base de datos relacionales 
+-base de datos de navegacion
+-que es relacion
+-base de datos no relacionadas - MAS VELOZ - CASSANDRA
+-base de datos SQL
+-definir relaciones 
+-modelo entidad relacion
+-lenguajes DDL / DML = CRUD SELEC UDPADTE BORRAR / DCL
+-VELOCIDAD DE RESPUESTA - 
+-VOLUMENE DE INFORMACION
+-COMO GUARDAS LOS DATOS
+-
+
+
+
+
+
+
+
+
+
+
+
+	
